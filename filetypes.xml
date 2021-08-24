@@ -1,22 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="workers" type="AUTO_DETECTED" />
-      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="hosts" type="AUTO_DETECTED" />
+      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="inventory" type="AUTO_DETECTED" />
+      <mapping pattern="workers" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".sequelizerc.ts" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="ResourceTest" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="PLAIN_TEXT" />
-      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
       <mapping pattern="com/kakao/search/temp.scala" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc.ts" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="txxt" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping pattern="example2_11" type="Scala" />
