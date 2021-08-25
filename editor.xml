@@ -7,6 +7,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Monaco" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -17,4 +18,8 @@
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="200" chromeUpdateJSOnChanges="true" nodeAutoDelay="300" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
