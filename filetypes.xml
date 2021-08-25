@@ -5,9 +5,6 @@
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="workers" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="ResourceTest" type="PLAIN_TEXT" />
       <mapping pattern="utils" type="PLAIN_TEXT" />
       <mapping pattern="com/kakao/search/temp.scala" type="PLAIN_TEXT" />
@@ -19,11 +16,14 @@
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="txxt" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping pattern="example2_11" type="Scala" />
       <mapping pattern="temp" type="tsconfig" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="example2_11" type="Scala" />
     </extensionMap>
   </component>
 </application>
