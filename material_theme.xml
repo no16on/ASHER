@@ -4,7 +4,8 @@
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="74a0f1" />
+    <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="-9018cfe:16bd08301b9:-8000" />
     <option name="version" value="6.9.0" />
   </component>
